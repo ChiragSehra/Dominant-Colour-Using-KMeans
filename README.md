@@ -1,1 +1,1 @@
-# Dominant-Colour-Using-KNN
+# Dominant-Colour-Using-KMeans
